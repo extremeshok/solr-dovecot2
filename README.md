@@ -1,0 +1,1 @@
+fts-solr schema.xml for solar 4.10 and dovecot 2
